@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "YT Audio Toggle",
+    "version": "1.6.1",
+    "description": "Toggle video playback visibility on YouTube and YouTube Music.",
+    "permissions": ["activeTab", "scripting"],
+    "host_permissions": ["https://www.youtube.com/*", "https://music.youtube.com/*"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "assets/icon.png",
+        "48": "assets/icon.png",
+        "128": "assets/icon.png"
+      }
+    },
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
+  

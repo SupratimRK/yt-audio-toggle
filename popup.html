@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YT Audio Toggle</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="card">
+    <div class="tools">
+      <div class="circle"><span class="red box"></span></div>
+      <div class="circle"><span class="yellow box"></span></div>
+      <div class="circle"><span class="green box"></span></div>
+    </div>
+    <div class="card__content">
+      <h1>Audio Toggle</h1>
+      <p>Hide or show video while keeping the audio active.</p>
+      <div class="toggle-switcher">
+        <input type="checkbox" id="toggle-switch" class="toggle-input">
+        <label for="toggle-switch" class="toggle-label"></label>
+      </div>
+      <p class="status-message">Video playback is currently <span id="video-status">visible</span>.</p>
+      <footer>Built with ❤️ by Supratim</footer>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
