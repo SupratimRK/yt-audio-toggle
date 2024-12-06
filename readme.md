@@ -45,7 +45,7 @@ If this extension is published on the Chrome Web Store, you can search for "YouT
 
 Here is a preview of how the extension looks in action:
 
-![YouTube Audio Toggle Screenshot](https://i.ibb.co/KsSk2jb/image-2024-12-06-222510157.png)  
+![YouTube Audio Toggle Screenshot](assets/ss.png)  
 *Example screenshot showing the extension in action on YouTube.*
 
 ## Technologies Used 🧰
