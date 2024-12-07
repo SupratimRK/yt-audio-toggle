@@ -39,7 +39,7 @@ The extension works by detecting the video elements on YouTube or YouTube Music.
 
 ### From the Chrome Web Store:
 
-If this extension is published on the Chrome Web Store, you can search for "YouTube Audio Toggle" and click **Add to Chrome**. 🛒
+This extension is not available on the **Chrome Web Store** 🛒
 
 ## Screenshots 📸
 
